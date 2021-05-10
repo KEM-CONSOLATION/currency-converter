@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form{
+    border: 1px solid #000;
+    border-radius: 30px;
+    min-height: 20vh;
+    min-width:50vh;
+    padding: 35px; 
+    /* justify-content: center; */
+    background-color: rgb(76, 187, 221);
+}
+/* #output{
+     margin-left: 20px; 
+} */
+/* #naira{
+    margin-left: 20px;
+} */
+/* .label{
+    text-align: center;
+} */
